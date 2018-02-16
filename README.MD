@@ -5,7 +5,7 @@ Simple jQuery plugin to create reading progress bar on given element.
 
 ```javascript
 <script src="http://code.jquery.com/jquery-3.3.1.min.js""></script>
-<script src="jQuery.progressBar.min.js">
+<script src="jQuery.progressBar.min.js"></script>
 
 $('article-element').progressBar();
 ```
