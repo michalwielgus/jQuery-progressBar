@@ -15,7 +15,7 @@ This code should create default progress bar fixed to the top of the screen and 
 
 ### Configuration
 
-You can customize progress by setting particular options in parameter object. Here you have default configuration:
+You can customize progress bar by setting particular options in parameter object. Here you have default configuration:
 
 ```javascript
 $('article-element').progressBar({
